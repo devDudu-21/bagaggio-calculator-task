@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Calculadora Online 🧮
 
-## Getting Started
+Este é um projeto de calculadora online desenvolvido para o desafio técnico da empresa Bagaggio.
 
-First, run the development server:
+## Descrição
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A Calculadora Online é uma aplicação web que permite aos usuários realizarem operações matemáticas básicas, como adição, subtração, multiplicação e divisão, além de fornecer o valor de Pi e permitir o cálculo de porcentagens. Tudo isso com uma interface de fácil visualização e intuitiva.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tecnologias Utilizadas 🔧
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Javascript**: Linguagem de programação para a lógica da aplicação.
+- **HTML5**: Linguagem de marcação para a estrutura da página web.
+- **CSS3**: Linguagem de estilo para a aparência da página web.
+- **ReactJS**: Biblioteca JavaScript para construir interfaces de usuário.
+- **NextJS**: Framework React para criação de aplicativos web escaláveis e de alto desempenho.
+- **Math.js**: Biblioteca JavaScript para operações matemáticas avançadas.
+- **React Icons**: Biblioteca de ícones React para adicionar ícones à aplicação.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Funcionalidades ⚙️
 
-## Learn More
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
+- Valor de Pi
+- Porcentagem
 
-To learn more about Next.js, take a look at the following resources:
+## Como Executar 💻
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Certifique-se de ter o Node.js instalado em sua máquina.
+2. Clone este repositório em seu ambiente local.
+3. Abra o terminal na pasta do projeto.
+4. Instale as dependências utilizando o comando:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+5. Execute o projeto utilizando o comando:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+6. Acesse a aplicação em seu navegador no endereço `http://localhost:3000`.
+
+## Autor
+
+Eduardo Fernandes
+
+## Contato 📞
+
+- LinkedIn: [Eduardo Fernandes](www.linkedin.com/in/devdudu)
