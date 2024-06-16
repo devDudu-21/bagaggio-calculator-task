@@ -37,7 +37,7 @@
   padding: 0 10px;
   border-radius: 4px;
   border: none;
-  color: #fff;
+  color: #eeeeee;
   cursor: default;
 }
 
@@ -79,4 +79,18 @@
 
 .clear {
   color: #ff0000;
+}
+
+.button:hover,
+.funcButton:hover {
+  transform: scale(1.1);
+  transition: transform 0.1s;
+}
+
+.button:hover {
+  background: #a8a8a8;
+}
+
+.funcButton:hover {
+  background: #333;
 }
