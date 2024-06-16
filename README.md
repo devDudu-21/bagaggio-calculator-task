@@ -50,4 +50,4 @@ Eduardo Fernandes
 
 ## Contato 📞
 
-- LinkedIn: [Eduardo Fernandes](www.linkedin.com/in/devdudu)
+- LinkedIn: [Eduardo Fernandes](https://www.linkedin.com/in/devdudu)
